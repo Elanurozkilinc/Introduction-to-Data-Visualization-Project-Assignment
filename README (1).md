@@ -158,7 +158,7 @@ Kurulum otomatiktir:
 
 ```bash
 # Repoyu klonla
-git clone https://github.com/Metovskii/kod-asistani
+git clone https://github.com/Elanurozkilinc/kod-asistani
 
 # BASLAT.bat dosyasını çalıştır — gerisini otomatik halleder
 ```

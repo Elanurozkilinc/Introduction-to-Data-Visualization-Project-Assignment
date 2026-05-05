@@ -14,6 +14,10 @@
 
 ---
 
+<img width="591" height="236" alt="data2" src="https://github.com/user-attachments/assets/66e64a05-fcda-4ed5-b457-84eee32cb0ae" />
+<img width="1918" height="1034" alt="data" src="https://github.com/user-attachments/assets/75de0212-ead7-4e3f-8b74-e57793aad90d" />
+
+
 ## 🎯 Bu Proje Nedir?
 
 Stack Overflow'da gördüğünüz karmaşık bir fonksiyon, ekip arkadaşınızın anlaşılmaz legacy kodu ya da kendinizin yazdığı eski bir modül — bunları anlamak, temizlemek veya belgelemek saatler alabilir.

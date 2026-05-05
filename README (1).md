@@ -173,6 +173,6 @@ Ollama API varsayılan adresi: `http://localhost:11434`
 
 Bu projede yapay zekadan kod yazımında destek alınmıştır. Ancak:
 
-- Projenin ne olacağına ve kime hitap edeceğine **Mete Demirdaş** karar vermiştir
-- Hangi özelliklerin ekleneceğini **Mete Demirdaş** belirlemiştir
-- README içeriği ve proje sunumu **Mete Demirdaş** tarafından düzenlenmiştir
+- Projenin ne olacağına ve kime hitap edeceğine **Ela Nur Özkılınç , Ulas Dikici, Berk Can** karar vermiştir
+- Hangi özelliklerin ekleneceğini**Ela Nur Özkılınç , Ulas Dikici, Berk Can**  belirlemiştir
+- README içeriği ve proje sunumu**Ela Nur Özkılınç , Ulas Dikici, Berk Can** tarafından düzenlenmiştir
